@@ -1,0 +1,30 @@
+up
+b w b
+g w g
+g w g
+
+down
+b y b
+b y b
+g y g
+
+back
+y b y
+y g y
+y g y
+
+front
+w b w
+w b w
+w g w
+
+left
+p p p
+r r r
+r r r
+
+right
+r r r
+p p p
+p p p
+ 
