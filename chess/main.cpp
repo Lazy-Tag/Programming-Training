@@ -6,7 +6,7 @@
 #include <random>
 
 #define DEBUG 0         // 调试宏
-#define MAXTIME 930     // 最大运行时间
+#define MAXTIME 900     // 最大运行时间
 #define MORECHESS 0     // 跳过大于五个棋子的情况
 #define CHENG5 10000000 // 各种棋型分数定义
 #define HUO4 10000
@@ -216,6 +216,12 @@ bool miniMax(int u, int depth, int BEGIN) // minimax求下一步棋的位置
             chessBoard[self] = {0, -INF};
         else
             chessBoard[self] = {0, INF};
+    }
+    if ((double)(END - BEGIN) * 1000 / CLOCKS_PER_SEC > MAXTIME) // 搜索到指定时间返回
+    {
+        solution = Next[backup];
+        graph[solution / N][solution % N] = player;
+        return true;
     }
     for (int i = 0; i < cnt; i++) // 遍历每种情况
     {
