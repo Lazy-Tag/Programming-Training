@@ -39,7 +39,7 @@
 				{
 					"directoryIndex" : 0,
 					"id" : "chess::@6890427a1f51a3e7e1df",
-					"jsonFile" : "target-chess-Debug-8ca8c7ad5b69ff75f008.json",
+					"jsonFile" : "target-chess-Debug-afa0e3f9750c48338f1a.json",
 					"name" : "chess",
 					"projectIndex" : 0
 				}
@@ -49,12 +49,12 @@
 	"kind" : "codemodel",
 	"paths" : 
 	{
-		"build" : "D:/programming/编程集训/chess/cmake-build-debug",
-		"source" : "D:/programming/编程集训/chess"
+		"build" : "C:/Users/HBW/Desktop/\u7f16\u7a0b\u96c6\u8bad/chess/cmake-build-debug",
+		"source" : "C:/Users/HBW/Desktop/\u7f16\u7a0b\u96c6\u8bad/chess"
 	},
 	"version" : 
 	{
 		"major" : 2,
-		"minor" : 3
+		"minor" : 5
 	}
 }

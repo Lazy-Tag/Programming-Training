@@ -8,34 +8,34 @@
 		},
 		"paths" : 
 		{
-			"cmake" : "C:/Program Files/JetBrains/CLion 2021.3.4/bin/cmake/win/bin/cmake.exe",
-			"cpack" : "C:/Program Files/JetBrains/CLion 2021.3.4/bin/cmake/win/bin/cpack.exe",
-			"ctest" : "C:/Program Files/JetBrains/CLion 2021.3.4/bin/cmake/win/bin/ctest.exe",
-			"root" : "C:/Program Files/JetBrains/CLion 2021.3.4/bin/cmake/win/share/cmake-3.21"
+			"cmake" : "D:/CLion 2023.2/bin/cmake/win/x64/bin/cmake.exe",
+			"cpack" : "D:/CLion 2023.2/bin/cmake/win/x64/bin/cpack.exe",
+			"ctest" : "D:/CLion 2023.2/bin/cmake/win/x64/bin/ctest.exe",
+			"root" : "D:/CLion 2023.2/bin/cmake/win/x64/share/cmake-3.26"
 		},
 		"version" : 
 		{
 			"isDirty" : false,
 			"major" : 3,
-			"minor" : 21,
-			"patch" : 1,
-			"string" : "3.21.1",
+			"minor" : 26,
+			"patch" : 4,
+			"string" : "3.26.4",
 			"suffix" : ""
 		}
 	},
 	"objects" : 
 	[
 		{
-			"jsonFile" : "codemodel-v2-d22acc8bd218ea65b8cc.json",
+			"jsonFile" : "codemodel-v2-75a840bb5ec219a1ae44.json",
 			"kind" : "codemodel",
 			"version" : 
 			{
 				"major" : 2,
-				"minor" : 3
+				"minor" : 5
 			}
 		},
 		{
-			"jsonFile" : "cache-v2-b1c0c89815b0d545b597.json",
+			"jsonFile" : "cache-v2-b57105df022fa36f6ef8.json",
 			"kind" : "cache",
 			"version" : 
 			{
@@ -44,7 +44,7 @@
 			}
 		},
 		{
-			"jsonFile" : "cmakeFiles-v1-50220ff587b6c5a5ebbe.json",
+			"jsonFile" : "cmakeFiles-v1-348123023796c4038676.json",
 			"kind" : "cmakeFiles",
 			"version" : 
 			{
@@ -66,7 +66,7 @@
 	{
 		"cache-v2" : 
 		{
-			"jsonFile" : "cache-v2-b1c0c89815b0d545b597.json",
+			"jsonFile" : "cache-v2-b57105df022fa36f6ef8.json",
 			"kind" : "cache",
 			"version" : 
 			{
@@ -76,7 +76,7 @@
 		},
 		"cmakeFiles-v1" : 
 		{
-			"jsonFile" : "cmakeFiles-v1-50220ff587b6c5a5ebbe.json",
+			"jsonFile" : "cmakeFiles-v1-348123023796c4038676.json",
 			"kind" : "cmakeFiles",
 			"version" : 
 			{
@@ -86,12 +86,12 @@
 		},
 		"codemodel-v2" : 
 		{
-			"jsonFile" : "codemodel-v2-d22acc8bd218ea65b8cc.json",
+			"jsonFile" : "codemodel-v2-75a840bb5ec219a1ae44.json",
 			"kind" : "codemodel",
 			"version" : 
 			{
 				"major" : 2,
-				"minor" : 3
+				"minor" : 5
 			}
 		},
 		"toolchains-v1" : 

@@ -1,4 +1,4 @@
-"C:\Program Files\JetBrains\CLion 2021.3.4\bin\cmake\win\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug "-DCMAKE_MAKE_PROGRAM=C:/Program Files/JetBrains/CLion 2021.3.4/bin/ninja/win/ninja.exe" -G Ninja D:\programming\编程集训\chess
+"D:\CLion 2023.2\bin\cmake\win\x64\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug "-DCMAKE_MAKE_PROGRAM=D:/CLion 2023.2/bin/ninja/win/x64/ninja.exe" -G Ninja -S C:\Users\HBW\Desktop\编程集训\chess -B C:\Users\HBW\Desktop\编程集训\chess\cmake-build-debug
 -- The C compiler identification is GNU 10.3.0
 -- The CXX compiler identification is GNU 10.3.0
 -- Detecting C compiler ABI info
@@ -11,6 +11,6 @@
 -- Check for working CXX compiler: C:/TDM-GCC-64/bin/c++.exe - skipped
 -- Detecting CXX compile features
 -- Detecting CXX compile features - done
--- Configuring done
--- Generating done
--- Build files have been written to: D:/programming/编程集训/chess/cmake-build-debug
+-- Configuring done (2.5s)
+-- Generating done (0.0s)
+-- Build files have been written to: C:/Users/HBW/Desktop/编程集训/chess/cmake-build-debug
